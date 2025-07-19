@@ -16,7 +16,7 @@ $form.ControlBox = $false # Hides all buttons (close, max, min)
 
 # Create the question label
 $label = New-Object System.Windows.Forms.Label
-$label.Text = 'Are you gay?'
+$label.Text = 'Are you stupid?'
 $label.Location = New-Object System.Drawing.Point(40, 20)
 $label.AutoSize = $true
 
